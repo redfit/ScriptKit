@@ -1,3 +1,7 @@
 {
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@johnlindquist/kit": "file:~/.kit",
+    "prettier": "^2.5.1"
+  }
 }
